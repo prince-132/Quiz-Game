@@ -1,0 +1,37 @@
+{
+    "question": [
+      "Q1. How many keyword are in Python?",
+      "Q2. Output of 2**3 ?",
+      "Q3. Keyword use to define a function?",
+      "Q4. Pythin is designed by ?"
+    ],
+    "answer": [
+      1,
+      2,
+      1,
+      3
+    ],
+    "options": [
+  
+      ["33",
+        "35",
+        "29",
+        "None of the Above"
+      ],
+      ["9",
+        "8",
+        "16",
+        "None of the Above"
+      ],
+      ["def",
+        "define",
+        "Both",
+        "None of the Above"
+      ],
+      ["James Gosling",
+        "Dennis Ritchie",
+        "Guido Van Rossum",
+        "None of the Above"
+      ]
+    ]
+}
